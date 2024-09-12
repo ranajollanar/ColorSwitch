@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Color Switch Clone is a basic version of the popular Color Switch game, developed as part of a task assigned from Helsinki XR Center. Navigate a ball through obstacles by matching its color with the obstacles. The game is simple yet engaging, requiring players to tap to jump and change the ball’s color to match the obstacles' colors.
+Color Switch Clone is a basic version of the popular Color Switch game, developed as part of a task assigned from Helsinki XR Center. Navigate a ball through obstacles by matching its color with the obstacles.
 
 **Play the Game**: [Play Color Switch Clone WebGL](https://ranajollanar.github.io/ColorSwitch/)
 
@@ -30,16 +30,10 @@ Here are some ideas to enhance the game and add new features:
    - **Pause Game**: Add a pause feature to allow players to pause and resume gameplay.
    - **Colorblind Mode**: Include colorblind-friendly modes.
 
-## Contributing
-
-Feel free to submit a pull request or open an issue if you want to contribute to the project. Your feedback and suggestions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
+- Helsinki XR Center for the task assignment and opportunity to work on this project.
 - Unity Technologies for providing the game development platform.
 - [PlayFab](https://playfab.com/) for potential integration in future updates.
-- Helsinki XR Center for the task assignment and opportunity to work on this project.
+
